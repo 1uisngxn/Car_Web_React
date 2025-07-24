@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const danhMucXe = () => {
   return (
@@ -97,10 +98,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
 
@@ -159,10 +160,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
                 </div>
@@ -220,10 +221,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
                 </div>
@@ -281,10 +282,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
                 </div>
@@ -342,10 +343,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
                 </div>
@@ -403,10 +404,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
                 </div>
@@ -464,10 +465,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
                 </div>
@@ -525,10 +526,10 @@ const danhMucXe = () => {
                                         className="mr-2 ml-3 rounded bg-yellow-200 px-2.5 py-0.5 text-xs font-semibold">5.0</span>
                                 </div>
                             </div>
-                            <a href="#"
-                                className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
-                                <i className='bx bx-cart-alt' style={{color: "#fff", fontSize: "24px"}}></i>
-                                Thuê Xe</a>
+                            <Link to="/ctxe"
+                      className="flex items-center justify-center rounded-md bg-slate-900 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                      <i className='bx bx-cart-alt' style={{ color: "#fff", fontSize: "24px" }}></i>
+                      Thuê Xe</Link>
                         </div>
                     </div>
                 </div>

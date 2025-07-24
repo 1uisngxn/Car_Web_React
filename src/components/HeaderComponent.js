@@ -17,11 +17,11 @@ const HeaderComponent = () => {
                         <div className="flex items-center lg:order-2">
                             <i className='bx bx-cart-alt' style={{ color: '#fff', fontSize: '40px' }}></i>                           
                             <Link to="/dangky"
-                                className="text-lg text-white hover:bg-gray-50 hover:text-black rounded-lg px-4 py-2 mr-2">
+                                className="text-md text-white hover:bg-gray-50 hover:text-black rounded-lg px-4 py-2 mr-2">
                                 Đăng Ký
                             </Link>
                             <Link to="/dangnhap"
-                                className="text-lg text-white hover:bg-gray-50 hover:text-black rounded-lg px-4 py-2 mr-2">
+                                className="text-md text-white hover:bg-gray-50 hover:text-black rounded-lg px-4 py-2 mr-2">
                                 Đăng Nhập
                             </Link>
                             <button data-collapse-toggle="mobile-menu-2" type="button"
@@ -48,25 +48,31 @@ const HeaderComponent = () => {
                             <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
                                 <li>
                                     <Link to="/"
-                                        className="text-xl block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
+                                        className="text-md block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
                                         Trang Chủ
                                     </Link>
                                 </li>
                                 <li>
                                     <Link to="/dmxe"
-                                        className="text-xl block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
+                                        className="text-md block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
                                         Danh Mục Xe
                                     </Link>
                                 </li>
                                 <li>
+                                    <Link to="/dsxe"
+                                        className="text-md block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
+                                        Danh sách xe
+                                    </Link>
+                                </li>
+                                <li>
                                     <Link to="/lienhe"
-                                        className="text-xl block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
+                                        className="text-md block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
                                         Liên Hệ
                                     </Link>
                                 </li>
                                 <li>
                                 <Link to="/dscuahang"
-                                        className="text-xl block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
+                                        className="text-md block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white">
                                         Cửa Hàng
                                     </Link>
                                 </li>
